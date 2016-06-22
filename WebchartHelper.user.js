@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Webchart Helper
-// @namespace    https://github.com/sordidfellow/TamperMonkeyUserScripts/WebchartHelper
+// @namespace    https://github.com/sordidfellow/TamperMonkeyUserScripts/WebchartHelper.user.js
+// @downloadURL  https://github.com/sordidfellow/TamperMonkeyUserScripts/raw/master/WebchartHelper.user.js
 // @version      1.0
 // @description  Verify environments match in all frames.  Adds environment name to "app bar".  Adds golden ticket status to app bar.
 // @author       SordidFellow
